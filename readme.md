@@ -1,5 +1,7 @@
 ## Twitter Favorite Bot
+
 This bot returns 15 tweets for a specified search query then favorites each of the returned tweets.
+
 ---
 
 ### How to use
