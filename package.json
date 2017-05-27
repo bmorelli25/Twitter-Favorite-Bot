@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bmorelli25/Twitter-Bot#readme",
   "dependencies": {
-    "twit": "^2.2.5"
+    "twitter": "^1.7.0"
   }
 }
